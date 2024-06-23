@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+}
+
+#Google-img {
+    width: 300px;
+}
+
+form {
+    width: 100%;
+    max-width: 500px;
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+#search-input {
+    margin-left: 21cm ;
+    margin-right: 7cm;
+    padding-left: 8cm ;
+    padding-right: 8cm;
+}
